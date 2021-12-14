@@ -1,5 +1,5 @@
 #!/bin/python3
-# By d1sx and n3w.elf 
+# n3w.elf 
 # contacts: irc.saude.gov.be
 
 ### Libs
